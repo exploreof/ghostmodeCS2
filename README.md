@@ -4,5 +4,7 @@ Code opening handle and using RPM/WPM (you can get VAC, dont use on main account
 
 Need change offsets -> dwLocalPlayerPawn, m_lifeState in code.
 
+Run with admin rights.
+
 Video of exploit - 
 https://www.youtube.com/watch?v=hnLn0ApXfRo
